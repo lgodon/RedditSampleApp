@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reddit Sample App</string>
+
+    <string name="save_image_title">Save image</string>
+    <string name="save_image_prompt">Do you want to save this image to the gallery?</string>
+    <string name="save_image_message">Saving to gallery...</string>
+    <string name="save_image_image_title">Image from Reddit</string>
+</resources>
